@@ -13,3 +13,4 @@ with open(file_path, "r") as file:
     print("Text file content published to Topic TEXT_FILE")
 
 client.disconnect()
+
